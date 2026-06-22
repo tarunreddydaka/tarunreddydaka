@@ -11,7 +11,7 @@ Final Year B.Tech CSE Student | Cloud Native Computing | MERN Stack Developer
 - 🎓 Final Year B.Tech Student
 - 💻 Computer Science and Engineering (CSE)
 - ☁️ Specialization: Cloud Native Computing
-- 🚀 Passionate MERN Stack Developer
+- 🚀 Passionate java Stack Developer
 - 📚 Exploring Cloud Computing, DevOps, and Full Stack Development
 - 💡 Interested in Building Scalable Web Applications
 - 🎯 Always eager to learn new technologies and solve real-world problems
